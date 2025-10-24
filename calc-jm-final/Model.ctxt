@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Model
+comment0.text=\n\ This\ Model\ class\ defines\ how\ the\ calculator\ reads\ and\ outputs\ inputted\ data.\n\n\ @author\ (James\ Maile)\n\ @version\ (1.01)\n
+comment1.params=c
+comment1.target=Model(Calculator)
+comment2.params=
+comment2.target=void\ doAdd()
+comment3.params=
+comment3.target=void\ doSub()
+comment4.params=
+comment4.target=void\ doPow()
+comment5.params=
+comment5.target=void\ doPer()
+comment6.params=
+comment6.target=void\ doMul()
+comment7.params=
+comment7.target=void\ doDiv()
+comment8.params=
+comment8.target=void\ doSqrt()
+numComments=9

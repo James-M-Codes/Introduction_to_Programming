@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=a\ b
+comment1.target=int\ add(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ sub(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ mul(int,\ int)
+comment4.params=a\ b
+comment4.target=int\ div(int,\ int)
+comment5.params=a\ b
+comment5.target=int\ pow(int,\ int)
+comment6.params=a\ b
+comment6.target=double\ per(double,\ double)
+comment7.params=a
+comment7.target=double\ sqrt(double)
+numComments=8

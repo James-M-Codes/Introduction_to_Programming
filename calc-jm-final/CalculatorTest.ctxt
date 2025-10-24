@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CalculatorTest
+comment0.text=\n\ The\ test\ class\ CalculatorTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=CalculatorTest()
+comment1.text=\n\ constructor\ for\ objects\ of\ class\ CalculatorTest\n
+comment2.params=
+comment2.target=void\ testAdd()
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\n\ The\ controller\ enables\ the\ program\ to\ do\ the\ tasks\ it's\ made\ to\ preform\ in\ this\ instance\n\ it\ allows\ the\ programm\ recognise\ buttons\ like\ add,\ subtract,\ divide,\ multiply\ and\ etc\ etc.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=action
+comment1.target=void\ doCalculating(java.lang.String)
+numComments=2
